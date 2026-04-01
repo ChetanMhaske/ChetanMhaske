@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Chetan Mhaske
 
-🎓 Final Year Computer Engineering Student  
-💻 MERN Stack Learner @ AccioJob  
-📱 Former Freelance Android Developer @ UrSplit  
+Final Year Computer Engineering Student  
+MERN Stack Learner @ AccioJob  
+Former Freelance Android Developer @ UrSplit  
 
 ---
 
@@ -30,5 +30,5 @@
 - Contributing to open source  
 
 
-- 💼 LinkedIn: www.linkedin.com/in/chetanmhaske
+- LinkedIn: www.linkedin.com/in/chetanmhaske
 ---
