@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
-- 📱 Built Android applications as a freelance developer
-- 💡 Interested in **Full Stack Development & Real-world Problem Solving**
-- ⚡ Always learning and improving every day
+- Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
+- Built Android applications as a freelance developer
+- Interested in **Full Stack Development & Real-world Problem Solving**
+- Always learning and improving every day
 
 ---
 
