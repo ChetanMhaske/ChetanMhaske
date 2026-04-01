@@ -24,9 +24,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChetanMhaske&show_icons=true&theme=tokyonight)
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChetanMhaske&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanMhaske&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanMhaske&layout=compact&theme=tokyonight&cache_seconds=86400)
 ---
 
 ## 🔥 Current Focus
