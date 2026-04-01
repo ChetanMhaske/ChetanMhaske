@@ -23,24 +23,13 @@
 
 ---
 
-## 📊 GitHub Stats
-![Chetan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChetanMhaske&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChetanMhaske&layout=compact&theme=tokyonight)
----
 
 ## 🔥 Current Focus
 - Building full stack MERN projects  
 - Strengthening DSA & problem solving  
 - Contributing to open source  
 
----
 
-## 📫 Connect with Me
 - 💼 LinkedIn: *(Add your link here)*
-- 📧 Email: *(Add your email here)*
 
 ---
-
-## ⚡ Fun Fact
-I love turning ideas into real-world applications 🚀
