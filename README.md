@@ -6,7 +6,7 @@ Former Freelance Android Developer @ UrSplit
 
 ---
 
-## 🚀 About Me
+## About Me
 - Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
 - Built Android applications as a freelance developer
 - Interested in **Full Stack Development & Real-world Problem Solving**
@@ -14,7 +14,7 @@ Former Freelance Android Developer @ UrSplit
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** JavaScript, Java, C++
 - **Frontend:** HTML, CSS, React
 - **Backend:** Node.js, Express.js
@@ -24,11 +24,11 @@ Former Freelance Android Developer @ UrSplit
 ---
 
 
-## 🔥 Current Focus
+## Current Focus
 - Building full stack MERN projects  
 - Strengthening DSA & problem solving  
 - Contributing to open source  
 
-
+---
 - LinkedIn: www.linkedin.com/in/chetanmhaske
 ---
