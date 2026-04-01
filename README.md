@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋, I'm Chetan Mhaske
 
-<!--
-**ChetanMhaske/ChetanMhaske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Engineering Student  
+💻 MERN Stack Learner @ AccioJob  
+📱 Former Freelance Android Developer @ UrSplit  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
+- 📱 Built Android applications as a freelance developer
+- 💡 Interested in **Full Stack Development & Real-world Problem Solving**
+- ⚡ Always learning and improving every day
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Java, C++
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code, Android Studio
+
+---
+
+## 📊 GitHub Stats
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChetanMhaske&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanMhaske&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Current Focus
+- Building full stack MERN projects  
+- Strengthening DSA & problem solving  
+- Contributing to open source  
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: *(Add your link here)*
+- 📧 Email: *(Add your email here)*
+
+---
+
+## ⚡ Fun Fact
+I love turning ideas into real-world applications 🚀
