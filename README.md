@@ -30,6 +30,5 @@
 - Contributing to open source  
 
 
-- 💼 LinkedIn: *(Add your link here)*
-
+- 💼 LinkedIn: www.linkedin.com/in/chetanmhaske
 ---
