@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chetan Mhaske
 
-Final Year Computer Engineering Student  
+B.E 2026 Passout
 MERN Stack Learner @ AccioJob  
 Former Freelance Android Developer @ UrSplit  
 
