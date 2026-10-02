@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chetan Mhaske
 
-B.E 2026 Passout
+B.E 2026 Passout <br>
 MERN Stack Learner @ AccioJob  
 Former Freelance Android Developer @ UrSplit  
 
