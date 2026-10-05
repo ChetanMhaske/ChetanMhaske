@@ -2,11 +2,13 @@
 
 ### Full Stack Developer | MERN | Android
 
-I’m a Computer Engineering graduate who enjoys building web and mobile applications and turning ideas into practical, usable products.
+I’m a Computer Engineering graduate interested in building web and Android applications.
 
-My main focus is **full-stack development with the MERN stack**, along with Android development using Java and Firebase. I like working across the entire application—from the frontend and backend to APIs, databases, authentication, and deployment.
+I mainly work with the **MERN stack** and have experience with React.js, Node.js, Express.js, MongoDB, REST APIs, authentication, and responsive web development. I also build Android applications using **Java and Firebase**.
 
-### What I Work With
+I enjoy working on projects where I can handle both the frontend and backend, connect databases, build APIs, and implement authentication.
+
+## Skills
 
 **Languages**
 JavaScript · Java · C++ · Python · HTML · CSS
@@ -26,24 +28,38 @@ Java · Android SDK · Firebase Auth · RecyclerView · SharedPreferences
 **Tools**
 Git · GitHub · Linux · VS Code · Vercel
 
-### Featured Projects
+## Projects
 
-**Nexpay — Fintech Transaction Dashboard**
-A full-stack fintech application for managing USD, BTC and ETH wallets, including deposits, withdrawals, transfers, trading, and role-based access.
+### Nexpay — Fintech Transaction Dashboard
 
-Built with **React.js, Node.js, Express.js, MongoDB Atlas, JWT, OAuth 2.0, Passport.js, and Tailwind CSS**.
+A MERN-based fintech application for managing USD, BTC, and ETH wallets.
 
-**E-Commerce Android App**
-An Android shopping application with authentication, product browsing, cart, favorites, checkout, and order history.
+Features include:
 
-Built using **Java, Firebase Auth, SharedPreferences, Gson, RecyclerView, Glide, and Lottie**.
+* Deposits and withdrawals
+* Wallet transfers and trading
+* Role-based access
+* JWT authentication
+* Google and GitHub OAuth
 
-### Currently
+**Tech:** React.js · Node.js · Express.js · MongoDB Atlas · JWT · OAuth 2.0 · Passport.js · Tailwind CSS
 
-I’m currently working as a **Full Stack Developer Intern**, gaining experience with real-world web applications, backend services, REST APIs, databases, debugging, testing, and collaborative development workflows.
+### E-Commerce Android App
 
-I’m also looking for opportunities as a **Junior Software Developer or Full Stack Developer** where I can contribute to real-world products and continue improving my skills.
+An Android shopping application with:
 
-### Let's Connect
+* User authentication
+* Product browsing
+* Cart and favorites
+* Checkout
+* Order history
+
+**Tech:** Java · Firebase Auth · SharedPreferences · Gson · RecyclerView · Glide · Lottie
+
+## Experience
+
+Currently working as a **Full Stack Developer Intern**, where I work on web applications, backend services, REST APIs, databases, debugging, testing, and Git-based development.
+
+## Connect
 
 [LinkedIn](https://linkedin.com/in/chetan5) · [GitHub](https://github.com/ChetanMhaske) · [Email](mailto:chetanshmhaske324@gmail.com)
