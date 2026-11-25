@@ -14,4 +14,4 @@ Currently working as a **Full Stack Developer Intern**, where I work on web appl
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/chetan5) · [GitHub](https://github.com/ChetanMhaske) · [Email](mailto:chetanshmhaske324@gmail.com)
+[LinkedIn](https://linkedin.com/in/chetan5) · [GitHub](https://github.com/ChetanMhaske)
